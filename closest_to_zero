@@ -1,7 +1,7 @@
 /****************************************************************
-Author: Jonathan Ziefle, Joe McCarty, Roger Smith
+Author: Joe McCarty, Jonathan Ziefle, Roger Smith
 Date: 2014-10-07
-Project # 1
+
 
 Overview: Calculates the closest to zero sum of the contiguous sub arrays of
 an array.
