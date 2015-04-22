@@ -1,7 +1,7 @@
 /****************************************************************
-Author: Joe McCarty, Jonathan Ziefle, Roger Smith
+Author: Jonathan Ziefle, Joe McCarty, Roger Smith
 Date: 2014-11-21
-Contest Entry for TSP
+Project #5
 
 Overview: Approximates the best route for the Travelling Salesman
 Problem (TSP) using the Nearest Neighbor (greedy) heuristic
@@ -35,8 +35,6 @@ typedef struct {
     int y_pos;
     int visit;
 } city;
-
-
 
 //global variables for signal handler
 int best_distance = INT_MAX;
